@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Muhammad 👋</h1>
 
-<h3 align="center">GTM Engineer | Automation & Scraping Specialist | CS Student</h3>
+<h3 align="center">GTM Engineer | Automation & Scraping Specialist </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maliprogmeleon/">
